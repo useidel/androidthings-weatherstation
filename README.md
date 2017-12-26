@@ -1,7 +1,7 @@
 # Android Things Weatherstation Codelab
 
 This folder contains the source code for the
-[Weatherstation codelab](https://codelabs.developers.google.com/codelabs/androidthings-weatherstation) with and additional folder which covers the results of exercise from the codelab
+[Weatherstation codelab](https://codelabs.developers.google.com/codelabs/androidthings-weatherstation) with and additional folder which covers the results up to step 5 (Write display data) from the codelab
 
 ### License
 
